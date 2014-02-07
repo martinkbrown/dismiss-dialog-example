@@ -3,5 +3,6 @@
 
     <string name="hello">Hello World, DialogOwnedByActivityExampleActivity!</string>
     <string name="app_name">DismissDialogExample</string>
+    <string name="show_dialog">Show Dialog</string>
 
 </resources>
